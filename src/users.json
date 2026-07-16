@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "username": "teacher1",
+      "password_hash": "pbkdf2_sha256$120000$a524d978db3b583f290f95b561bcc322$671c2ef6b75c59315ff6619d92b2cf2a2ab4e58e2f5c39785dcba5d2fba90187",
+      "role": "admin"
+    }
+  ]
+}
